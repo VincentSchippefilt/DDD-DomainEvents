@@ -1,0 +1,13 @@
+{
+  "name": "generator-durandal",
+  "homepage": "https://github.com/robksawyer/generator-durandal",
+  "_release": "eefaefbbd9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "eefaefbbd956d5434d125476bab400664628fb5b"
+  },
+  "_source": "git://github.com/robksawyer/generator-durandal.git",
+  "_target": "*",
+  "_originalSource": "generator-durandal"
+}

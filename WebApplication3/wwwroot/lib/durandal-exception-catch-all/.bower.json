@@ -1,0 +1,51 @@
+{
+  "name": "durandal-exception-catch-all",
+  "version": "0.0.10",
+  "description": "A good way to standardized error logging",
+  "authors": [
+    "carlos marte"
+  ],
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "main": [
+    "lib"
+  ],
+  "license": "MIT",
+  "homepage": "<url>",
+  "ignore": [
+    "tslint.json",
+    "examples",
+    "karma.conf.coffee",
+    "definitelyTyped",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".coverage",
+    ".tmp",
+    "source",
+    "test",
+    "tests",
+    "gulp.config.coffee",
+    "gulpfile.coffee",
+    "gulpfile.js",
+    "karma.conf.js",
+    "package.json",
+    "README.md"
+  ],
+  "devDependencies": {
+    "knockout.js": "latest",
+    "jquery": "~2.1.1",
+    "sinon": "http://sinonjs.org/releases/sinon-1.12.1.js"
+  },
+  "_release": "0.0.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.10",
+    "commit": "bcf9f4f8a0946c5559f8a3295e4e16cda41068d3"
+  },
+  "_source": "git://github.com/carlosmarte/durandal-exception-catch-all.git",
+  "_target": "0.0.10",
+  "_originalSource": "durandal-exception-catch-all"
+}
